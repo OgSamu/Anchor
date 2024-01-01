@@ -91,11 +91,9 @@ About
 With Anchor you can:
 
 ✔️ Set individual or group goals like health, career, and finance
-
 ✔️ Breakdown big goals into smaller actionable milestones
 ✔️ Visualize progress with interactive trackers and charts
 ✔️ Share goals publicly and find online motivation partners
-
 ✔️ Connect with like-minded people and work towards common objectives
 ✔️ Earn karma points and achievements as you hit targets
 
