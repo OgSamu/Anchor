@@ -37,7 +37,7 @@
   <h3 align="center">Anchor</h3>
 
   <p align="center">
-  
+    <p>Explore below </p>
     <br />
     <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
     <br />
